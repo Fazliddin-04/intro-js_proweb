@@ -34,7 +34,7 @@ console.log("Level 6:\n '619 / 3'ning qoldig\`i " + 619 % 3);
 console.log('sizning javob: ' + lvl6 + '\n ');
 
 var lvl7 = +prompt('2 ning 3-darajasi = ?')
-console.log("Level 7:\n 2 ning 3-darajasi " + (2 ** 3));
+console.log("Level 7:\n 2 ning 3-darajasi \t" + (2 ** 3));
 console.log('sizning javob: ' + lvl7 + '\n ');
 
 var lvl8 = +prompt('x + 3 = 6, x = ?')
